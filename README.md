@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### 🔭 I’m currently working as a Data Platform Engineer at E.On
+#### 🔭 I’m currently working as a Data Platform Engineer at E.ON Energie Deutschland GmbH
   - What I am doing:
     - Work on all parts of the data platform
-    - Develop and maintain data pipelines
+    - Develop and maintain data pipelines and the data warehouse
     - Implement workflows
      
   - Some tools I use frequently:
@@ -26,6 +26,7 @@ Here are some ideas to get you started:
     - Apache Airflow
     - Kubernetes
     - Terraform
+    - Fivetran/HVR
     - Azure (AKS, Data Lake, Dev Ops ...)
     - dbt
     - Snowflake
